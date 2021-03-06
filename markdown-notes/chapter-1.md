@@ -27,7 +27,7 @@ $$
 ### Ideal Basic Circuit Component
 
 - Only **2 terminals** to connect other components
-- ==**Ideal**==: describe mathematically in terms of curren and voltage
+- ==**Ideal**==: describe mathematically in terms of current and voltage
 - ==**Basic**==: cannot be subdivided into other elements
 
 ## Reference Direction
